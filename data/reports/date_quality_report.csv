@@ -1,0 +1,8 @@
+Date Condition,Records,Decision,Remarks
+Baseline after posting,3198,Preserve,Investigated and retained
+Due before posting,137,Preserve,Investigated and retained
+Baseline after due,0,No records found,No anomaly detected
+Clear before posting,0,No records found,No anomaly detected
+Clear before due,14469,Preserve,Investigated and retained
+Missing clear date for open invoices,9681,Preserve,Legitimate missing values
+Invoice status mismatch,0,None,No mismatches detected

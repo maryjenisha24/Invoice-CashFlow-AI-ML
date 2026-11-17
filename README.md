@@ -1,9 +1,13 @@
+
 # Invoice Payment Delay & Cash-Flow Intelligence Platform
 
 ## Project Overview
-This project aims to develop an AI/ML-based platform that predicts invoice payment delays, estimates expected settlement dates, identifies customer payment risks, and forecasts future cash flow.
+This project aims to develop an AI/ML-based platform that predicts invoice payment delays, estimates expected settlement dates, identifies customer payment risks, and forecasts future cash flow using historical accounts receivable data.
 
-**Internship:** Orvians Technologies – AI/ML Internship
+## Internship Details
+- Organization: Orvians Technologies
+- Internship: 8-Week AI/ML Internship
+- Domain: Artificial Intelligence & Machine Learning
 
 ## Project Objectives
 - Predict invoice payment delays.
@@ -36,6 +40,17 @@ Completed activities:
 - Data quality and anomaly analysis.
 - Final cleaned dataset preparation.
 
+## Week 2 – Data Visualization and Exploratory Data Analysis
+
+Completed activities:
+- Univariate Analysis.
+- Bivariate Analysis.
+- Time-Based Analysis.
+- Customer Analysis.
+- Overview and Aging Analysis.
+- Correlation Analysis.
+- Business Insights.
+
 ## Project Structure
 
 ```text
@@ -44,23 +59,16 @@ Invoice-CashFlow-AI-ML/
 ├── data/
 │   ├── raw/
 │   ├── cleaned/
+│   ├── analysis/
 │   └── reports/
 │
-├── .gitignore
-├── datacheck.py
-├── duplicate_analysis.py
-├── duplicate_check.py
-├── duplicate_validation.py
-├── final_dataset_verification.py
-├── full_duplicate_check.py
-├── investigate_data.py
-├── profile_dataset.py
-└── README.md
+├── README.md
+└── .gitignore
 ```
 
 ## Current Progress
-
 - Week 1: Data Cleaning and Preprocessing – Completed.
+- Week 2: Data Visualization and Exploratory Data Analysis – Completed.
 
 ## Author
 Mary Jenisha

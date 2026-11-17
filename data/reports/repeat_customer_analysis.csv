@@ -1,0 +1,3 @@
+customer_type,total_customers,total_invoices,average_invoices
+One-time Customer,311,311,1.0
+Repeat Customer,788,48528,61.58375634517766

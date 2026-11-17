@@ -1,0 +1,47 @@
+
+DAY 1 - UNIVARIATE ANALYSIS FINDINGS
+
+Dataset:
+Total invoices: 48,839
+Paid invoices: 39,158
+Outstanding invoices: 9,681
+
+1. INVOICE AMOUNT
+Mean: 32,318.93
+Median: 17,559.64
+Minimum: 0.72
+Maximum: 668,593.36
+Potential outliers: 2,460 (5.04%)
+
+Finding:
+Invoice amounts show considerable variation.
+Some high-value invoices may significantly affect cash flow.
+
+2. DAYS TO PAY
+Mean: 18.06 days
+Median: 15 days
+Minimum: 0 days
+Maximum: 205 days
+Potential outliers: 4,967 (12.68%)
+
+Finding:
+Most paid invoices are settled relatively quickly,
+but some invoices take much longer to settle.
+
+3. PAYMENT DELAY
+Mean: 0.84 days
+Median: 0 days
+Minimum: -89 days
+Maximum: 204 days
+Potential outliers: 2,981 (7.61%)
+
+Finding:
+Typical payment occurs around the due date.
+However, some customers pay significantly early or late.
+
+CONCLUSION:
+Invoice amount, days to pay and payment delay
+show useful patterns for further analysis.
+
+These variables may help build future payment
+delay prediction and customer risk models.
